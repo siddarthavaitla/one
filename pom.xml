@@ -32,8 +32,8 @@
 		 </snapshotRepository>
 		
 		<repository>
-		    <id>nexusRepo</id>
-		    <url>http://44.210.238.199:8081/repository/myrepo/</url>
+		    <id>sanjayrepo</id>
+		    <url>http://13.217.10.241:8081/repository/sanjayrepo/</url>
 		</repository>
   	</distributionManagement>
 	
